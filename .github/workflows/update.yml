@@ -1,0 +1,33 @@
+name: daily-update
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 每天 UTC 01:00 = 北京时间 09:00
+  workflow_dispatch: {} # 手动触发，方便演示和调试
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run radar (fetch + AI summarize + export)
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+        run: python src/main.py --push
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "chore: daily hot topics update"
+          git push
