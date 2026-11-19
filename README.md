@@ -3,7 +3,7 @@
 > 自动抓取 GitHub Trending / Hacker News / V2EX 热点 → DeepSeek 生成一句话摘要和每日简报 → 静态网页看板 + 钉钉群推送。
 > 每天由 GitHub Actions 定时运行，**零服务器、零第三方 Python 依赖**。
 
-🔗 **在线演示**：https://你的用户名.github.io/hot-radar/ （开启 GitHub Pages 后替换此链接）
+🔗 **在线演示**：https://a2022p.github.io/hot-radar/ （在仓库 Settings → Pages 开启后生效）
 
 ## 它解决什么问题
 
