@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-11-19T19:00:00+08:00",
+  "digest": "【示例数据】今天的关键词是「自动化」和「自托管」：GitHub 上 n8n 与 ollama 持续霸榜，说明大家正在把 AI 接进工作流、把模型搬回本地；HN 上一个 SQLite 报表看板工具戳中了做报表人群的痛点；V2EX 的「脚本替 Excel」经历帖引发打工人共鸣——整个技术圈都在想办法把重复劳动丢给机器。",
+  "items": [
+    {
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "heat": "812 stars today",
+      "extra": "Fair-code workflow automation platform with native AI capabilities",
+      "summary": "开源自动化工作流平台，能给 AI 当胶水用，社区最近非常活跃。",
+      "fetched_at": "2026-11-19T19:00:00+08:00"
+    },
+    {
+      "source": "github",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "heat": "655 stars today",
+      "extra": "Get up and running with large language models locally",
+      "summary": "一条命令在本地跑开源大模型，折腾党装机必备。",
+      "fetched_at": "2026-11-19T19:00:00+08:00"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I built a SQL dashboard for SQLite files",
+      "url": "https://news.ycombinator.com/item?id=00000001",
+      "heat": "214 points",
+      "extra": "87 comments",
+      "summary": "作者给 SQLite 文件做了个网页看板，拖进去就能写 SQL 出报表，做报表场景直接对标。",
+      "fetched_at": "2026-11-19T19:00:00+08:00"
+    },
+    {
+      "source": "v2ex",
+      "title": "工作三年，我终于把公司的 Excel 报表换成了脚本",
+      "url": "https://www.v2ex.com/t/0000001",
+      "heat": "46 回复",
+      "extra": "分享发现",
+      "summary": "楼主手工维护 Excel 报表三年后改用 Python 自动化，评论区全是同行诉苦。",
+      "fetched_at": "2026-11-19T19:00:00+08:00"
+    },
+    {
+      "source": "github",
+      "title": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "heat": "301 stars today",
+      "extra": "Open source home automation that puts local control and privacy first",
+      "summary": "开源智能家居中枢，和 NAS、树莓派折腾党是绝配。",
+      "fetched_at": "2026-11-19T19:00:00+08:00"
+    },
+    {
+      "source": "hackernews",
+      "title": "The hidden cost of always-on meetings",
+      "url": "https://news.ycombinator.com/item?id=00000002",
+      "heat": "189 points",
+      "extra": "132 comments",
+      "summary": "讨论会议文化对效率的隐性消耗，评论区共鸣强烈。",
+      "fetched_at": "2026-11-19T19:00:00+08:00"
+    },
+    {
+      "source": "v2ex",
+      "title": "折腾 NAS 和软路由这些年，你最满意的一个瞬间是什么？",
+      "url": "https://www.v2ex.com/t/0000002",
+      "heat": "38 回复",
+      "extra": "酷工作",
+      "summary": "家庭实验室晒机帖，从软路由到 NAS，评论区比主帖还精彩。",
+      "fetched_at": "2026-11-19T19:00:00+08:00"
+    }
+  ]
+}

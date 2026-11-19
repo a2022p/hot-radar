@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>热点雷达 · AI 每日科技简报</title>
+  <meta name="description" content="自动抓取 GitHub Trending / Hacker News / V2EX 热点，AI 一句话摘要 + 每日简报。" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>📡 热点雷达</h1>
+      <p class="sub">GitHub Trending · Hacker News · V2EX —— AI 帮你一句话看懂今天的技术圈</p>
+      <p class="meta">更新时间：<span id="generated-at">加载中…</span>　|　<a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">源码仓库</a></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="digest" id="digest">
+      <h2>🗞️ 今日简报</h2>
+      <p id="digest-text">加载中…</p>
+    </section>
+
+    <nav class="filters" id="filters">
+      <button class="chip active" data-source="all">全部</button>
+      <button class="chip" data-source="github">GitHub</button>
+      <button class="chip" data-source="hackernews">Hacker News</button>
+      <button class="chip" data-source="v2ex">V2EX</button>
+    </nav>
+
+    <section class="grid" id="grid"></section>
+  </main>
+
+  <footer class="wrap">
+    <p>数据由 GitHub Actions 每天自动抓取 · DeepSeek 生成摘要 · 纯静态页面托管于 GitHub Pages</p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
