@@ -1,366 +1,366 @@
 {
-  "generated_at": "2026-11-20T16:08:14+08:00",
+  "generated_at": "2026-11-21T16:02:17+08:00",
   "digest": "今天共收录 20 条热点，详情见下方卡片。",
   "items": [
     {
       "source": "v2ex",
-      "title": "不是，鸽们，你 6",
-      "url": "https://www.v2ex.com/t/1258420",
-      "heat": "63 回复",
+      "title": "一键使用 Claude Code Opus 5.5，不用折腾账号和 API",
+      "url": "https://www.v2ex.com/t/1258640",
+      "heat": "23 回复",
+      "extra": "推广",
+      "summary": "一键使用 Claude Code Opus 5.5，不用折腾账号和 API",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
+    },
+    {
+      "source": "v2ex",
+      "title": "推荐个梯子吧，自己买了好几个，一到晚上连油管都打不开 太拉了，打算预算可以加一点",
+      "url": "https://www.v2ex.com/t/1258717",
+      "heat": "26 回复",
+      "extra": "机场",
+      "summary": "推荐个梯子吧，自己买了好几个，一到晚上连油管都打不开 太拉了，打算预算可以加一点",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
+    },
+    {
+      "source": "v2ex",
+      "title": "开发几乎成了我的全部生活，也想请教大家怎么推广自己的产品",
+      "url": "https://www.v2ex.com/t/1258625",
+      "heat": "26 回复",
       "extra": "生活",
-      "summary": "不是，鸽们，你 6",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "summary": "开发几乎成了我的全部生活，也想请教大家怎么推广自己的产品",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "v2ex",
-      "title": "X 也被封了，难受",
-      "url": "https://www.v2ex.com/t/1258429",
-      "heat": "66 回复",
-      "extra": "Twitter",
-      "summary": "X 也被封了，难受",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "逆向了 macOS 屏幕共享的高性能模式，做了个免费的 iPhone / iPad 连 Mac 远程桌面",
+      "url": "https://www.v2ex.com/t/1258592",
+      "heat": "29 回复",
+      "extra": "分享创造",
+      "summary": "逆向了 macOS 屏幕共享的高性能模式，做了个免费的 iPhone / iPad 连 Mac 远程桌面",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "v2ex",
-      "title": "牵手、亲吻之后，第二天却被告知不想继续了",
-      "url": "https://www.v2ex.com/t/1258512",
-      "heat": "68 回复",
-      "extra": "情感问题",
-      "summary": "牵手、亲吻之后，第二天却被告知不想继续了",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
-    },
-    {
-      "source": "v2ex",
-      "title": "老婆就是要买，各位能想想办法吗",
-      "url": "https://www.v2ex.com/t/1258328",
-      "heat": "75 回复",
-      "extra": "摄影",
-      "summary": "老婆就是要买，各位能想想办法吗",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
-    },
-    {
-      "source": "v2ex",
-      "title": "因为工作老生气,然后想了解一下看的观点是不是信息茧房",
-      "url": "https://www.v2ex.com/t/1258423",
-      "heat": "82 回复",
-      "extra": "程序员",
-      "summary": "因为工作老生气,然后想了解一下看的观点是不是信息茧房",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
-    },
-    {
-      "source": "v2ex",
-      "title": "统计了 V2EX 近 15 年提到「裁员」或「失业」的帖子",
-      "url": "https://www.v2ex.com/t/1258315",
-      "heat": "84 回复",
+      "title": "许愿式编程会取代程序员吗？",
+      "url": "https://www.v2ex.com/t/1258629",
+      "heat": "32 回复",
       "extra": "职场话题",
-      "summary": "统计了 V2EX 近 15 年提到「裁员」或「失业」的帖子",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "summary": "许愿式编程会取代程序员吗？",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "v2ex",
-      "title": "小弟需要贷款，想问下各路大佬怎么找到性价比最高的途径",
-      "url": "https://www.v2ex.com/t/1258362",
-      "heat": "101 回复",
+      "title": "黎曼猜想证明意味着…….",
+      "url": "https://www.v2ex.com/t/1258688",
+      "heat": "33 回复",
+      "extra": "分享发现",
+      "summary": "黎曼猜想证明意味着…….",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
+    },
+    {
+      "source": "v2ex",
+      "title": "想偷偷出钱，做个让爸妈锻炼打卡就能提现的 App，怎么实现？",
+      "url": "https://www.v2ex.com/t/1258661",
+      "heat": "39 回复",
       "extra": "问与答",
-      "summary": "小弟需要贷款，想问下各路大佬怎么找到性价比最高的途径",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "summary": "想偷偷出钱，做个让爸妈锻炼打卡就能提现的 App，怎么实现？",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "v2ex",
-      "title": "我的悲哀 我父母的悲哀",
-      "url": "https://www.v2ex.com/t/1258332",
-      "heat": "125 回复",
-      "extra": "职场话题",
-      "summary": "我的悲哀 我父母的悲哀",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "黎曼猜想被证明了？",
+      "url": "https://www.v2ex.com/t/1258665",
+      "heat": "47 回复",
+      "extra": "Claude",
+      "summary": "黎曼猜想被证明了？",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "v2ex",
-      "title": "结婚后对象想买特斯拉 model y",
-      "url": "https://www.v2ex.com/t/1258451",
-      "heat": "145 回复",
-      "extra": "生活",
-      "summary": "结婚后对象想买特斯拉 model y",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "在清华读了一年非全后的感受",
+      "url": "https://www.v2ex.com/t/1258591",
+      "heat": "49 回复",
+      "extra": "清华大学",
+      "summary": "在清华读了一年非全后的感受",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "v2ex",
-      "title": "我的 App 火了，然后苹果威胁要关闭我的开发者账号",
-      "url": "https://www.v2ex.com/t/1258411",
-      "heat": "183 回复",
-      "extra": "iDev",
-      "summary": "我的 App 火了，然后苹果威胁要关闭我的开发者账号",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "[更新] iPhone 上远程使用 ClaudeCode 等 Coding Agent 的 UULink 重磅更新，这回征集 Windows 测试用户，另外还是长期送兑换码给真正需要的朋友",
+      "url": "https://www.v2ex.com/t/1258620",
+      "heat": "51 回复",
+      "extra": "分享创造",
+      "summary": "[更新] iPhone 上远程使用 ClaudeCode 等 Coding Agent 的 UULink 重磅更新，这回征集 Windows 测试用户，另外还是长期送兑换码给真正需要的朋友",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "hackernews",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "heat": "101 points",
-      "extra": "203 comments",
-      "summary": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "url": "https://trynotched.com/find",
+      "heat": "160 points",
+      "extra": "109 comments",
+      "summary": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "hackernews",
-      "title": "Rebuilding my local voice assistant pipeline",
-      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "heat": "102 points",
-      "extra": "16 comments",
-      "summary": "Rebuilding my local voice assistant pipeline",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "Backblaze Notice at Collection and Privacy Policy",
+      "url": "https://www.backblaze.com/company/policy/privacy",
+      "heat": "167 points",
+      "extra": "52 comments",
+      "summary": "Backblaze Notice at Collection and Privacy Policy",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "hackernews",
-      "title": "GIMP now has UI tests",
-      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-      "heat": "102 points",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "heat": "188 points",
+      "extra": "52 comments",
+      "summary": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
+    },
+    {
+      "source": "hackernews",
+      "title": "Slopstrap – Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "heat": "205 points",
+      "extra": "35 comments",
+      "summary": "Slopstrap – Make your site look hastily vibecoded",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
+    },
+    {
+      "source": "hackernews",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "heat": "223 points",
+      "extra": "59 comments",
+      "summary": "NINLIVE: The Nine Inch Nails live archive",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "heat": "267 points",
+      "extra": "530 comments",
+      "summary": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
+    },
+    {
+      "source": "hackernews",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "heat": "270 points",
+      "extra": "244 comments",
+      "summary": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
+      "heat": "272 points",
+      "extra": "57 comments",
+      "summary": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
+    },
+    {
+      "source": "hackernews",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "heat": "277 points",
       "extra": "88 comments",
-      "summary": "GIMP now has UI tests",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "summary": "Finite-time blow-up for the Navier–Stokes equations",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "hackernews",
-      "title": "PostgreSQL 19",
-      "url": "https://www.postgresql.org/docs/release/19.0/",
-      "heat": "110 points",
-      "extra": "3 comments",
-      "summary": "PostgreSQL 19",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "heat": "389 points",
+      "extra": "117 comments",
+      "summary": "Language Models Can Rewrite Their Own Weights",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "hackernews",
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "url": "https://github.com/onlook-dev/onlook/",
-      "heat": "114 points",
-      "extra": "76 comments",
-      "summary": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "heat": "395 points",
+      "extra": "226 comments",
+      "summary": "We promoted developers into architects without informing them",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "hackernews",
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "heat": "189 points",
-      "extra": "140 comments",
-      "summary": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "heat": "412 points",
+      "extra": "171 comments",
+      "summary": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "url": "https://cornholenews.news",
-      "heat": "218 points",
-      "extra": "100 comments",
-      "summary": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "heat": "909 points",
+      "extra": "171 comments",
+      "summary": "Inkling 2 Mini",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "hackernews",
-      "title": "How to CAD Almost Anything",
-      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "heat": "236 points",
-      "extra": "74 comments",
-      "summary": "How to CAD Almost Anything",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "heat": "1915 points",
+      "extra": "885 comments",
+      "summary": "Hurried Announcement: Alessandro Masullo GRH",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "hackernews",
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "heat": "261 points",
-      "extra": "144 comments",
-      "summary": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
-    },
-    {
-      "source": "hackernews",
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "heat": "289 points",
-      "extra": "61 comments",
-      "summary": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
-    },
-    {
-      "source": "hackernews",
-      "title": "Someone reported java4shell bug in September 2026",
-      "url": "https://github.com/openjdk/jdk/pull/32781",
-      "heat": "418 points",
-      "extra": "113 comments",
-      "summary": "Someone reported java4shell bug in September 2026",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
-    },
-    {
-      "source": "hackernews",
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "heat": "474 points",
-      "extra": "224 comments",
-      "summary": "Claude solves two open problems in the physics of black holes",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
-    },
-    {
-      "source": "hackernews",
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "heat": "746 points",
-      "extra": "122 comments",
-      "summary": "Pancreatic cancer halted by virus injection in three patients",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
-    },
-    {
-      "source": "hackernews",
-      "title": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "heat": "842 points",
-      "extra": "353 comments",
-      "summary": "Garage Door Spam",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
-    },
-    {
-      "source": "hackernews",
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "heat": "1059 points",
-      "extra": "2082 comments",
-      "summary": "Anthropic’s Nasdaq debut",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "heat": "2552 points",
+      "extra": "1762 comments",
+      "summary": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "XiaoYouChR/Ghost-Downloader-3/stargazers",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3/stargazers",
-      "heat": "341 stars today",
+      "heat": "1,082 stars today",
       "extra": "The only downloader you need. 下载器的集大成者。",
       "summary": "XiaoYouChR/Ghost-Downloader-3/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "toeverything/AFFiNE/stargazers",
       "url": "https://github.com/toeverything/AFFiNE/stargazers",
-      "heat": "182 stars today",
+      "heat": "676 stars today",
       "extra": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "summary": "toeverything/AFFiNE/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "Tracer-Cloud/opensre/stargazers",
       "url": "https://github.com/Tracer-Cloud/opensre/stargazers",
-      "heat": "38 stars today",
+      "heat": "466 stars today",
       "extra": "The open-source agent for CI/CD reliability.",
       "summary": "Tracer-Cloud/opensre/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "mjmirza/app-store-compliance/stargazers",
       "url": "https://github.com/mjmirza/app-store-compliance/stargazers",
-      "heat": "377 stars today",
+      "heat": "869 stars today",
       "extra": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "summary": "mjmirza/app-store-compliance/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "google-labs-code/stitch-skills/stargazers",
       "url": "https://github.com/google-labs-code/stitch-skills/stargazers",
-      "heat": "302 stars today",
+      "heat": "315 stars today",
       "extra": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "summary": "google-labs-code/stitch-skills/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "mvanhorn/last30days-skill/stargazers",
       "url": "https://github.com/mvanhorn/last30days-skill/stargazers",
-      "heat": "954 stars today",
+      "heat": "681 stars today",
       "extra": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "summary": "mvanhorn/last30days-skill/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "cathrynlavery/diagram-design/stargazers",
       "url": "https://github.com/cathrynlavery/diagram-design/stargazers",
-      "heat": "271 stars today",
+      "heat": "636 stars today",
       "extra": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "summary": "cathrynlavery/diagram-design/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "openvinotoolkit/openvino/stargazers",
       "url": "https://github.com/openvinotoolkit/openvino/stargazers",
-      "heat": "246 stars today",
+      "heat": "217 stars today",
       "extra": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "summary": "openvinotoolkit/openvino/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "nginx/nginx/stargazers",
       "url": "https://github.com/nginx/nginx/stargazers",
-      "heat": "73 stars today",
+      "heat": "246 stars today",
       "extra": "The official NGINX Open Source repository.",
       "summary": "nginx/nginx/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "firecrawl/firecrawl/stargazers",
       "url": "https://github.com/firecrawl/firecrawl/stargazers",
-      "heat": "825 stars today",
-      "extra": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "heat": "1,241 stars today",
+      "extra": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "summary": "firecrawl/firecrawl/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "cursor/plugins/stargazers",
       "url": "https://github.com/cursor/plugins/stargazers",
-      "heat": "384 stars today",
+      "heat": "299 stars today",
       "extra": "Cursor plugin specification and official plugins",
       "summary": "cursor/plugins/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "jingyaogong/minimind/stargazers",
       "url": "https://github.com/jingyaogong/minimind/stargazers",
-      "heat": "238 stars today",
+      "heat": "847 stars today",
       "extra": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "summary": "jingyaogong/minimind/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "HKUDS/CLI-Anything/stargazers",
       "url": "https://github.com/HKUDS/CLI-Anything/stargazers",
-      "heat": "898 stars today",
+      "heat": "773 stars today",
       "extra": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "summary": "HKUDS/CLI-Anything/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "obra/superpowers/stargazers",
       "url": "https://github.com/obra/superpowers/stargazers",
-      "heat": "2,028 stars today",
+      "heat": "890 stars today",
       "extra": "An agentic skills framework & software development methodology that works.",
       "summary": "obra/superpowers/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     },
     {
       "source": "github",
       "title": "elementalsouls/Claude-BugHunter/stargazers",
       "url": "https://github.com/elementalsouls/Claude-BugHunter/stargazers",
-      "heat": "1,349 stars today",
+      "heat": "1,622 stars today",
       "extra": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "summary": "elementalsouls/Claude-BugHunter/stargazers",
-      "fetched_at": "2026-11-20T16:08:12+08:00"
+      "fetched_at": "2026-11-21T16:02:15+08:00"
     }
   ]
 }
